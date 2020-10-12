@@ -1,0 +1,27 @@
+The tree that we just read is:
+0: 1	1: 6	2: 12	3: 9	4: 10	5: 0	6: -1	7: 9	8: 12	9: 12	10: 6	11: 10	12: 6	13: 4	
+The tree that we just copied is:
+0: 1	1: 6	2: 12	3: 9	4: 10	5: 0	6: -1	7: 9	8: 12	9: 12	10: 6	11: 10	12: 6	13: 4	
+The root of the tree is: 6
+The least common ancestor of nodes 3 and 8 is: 12
+The least common ancestor of nodes 13 and 8 is: 6
+The least common ancestor of nodes 13 and 11 is: 10
+The children of node 12 is/are:
+2 8 9 
+The children of node 10 is/are:
+4 11 
+The siblings of node 3 is/are:
+7 
+The siblings of node 12 is/are:
+1 10 
+The nodes at level 3 is/are:
+0 2 4 8 9 11 
+The height of the tree is: 4
+The level of node 3 in the tree is: 4
+The level of node 12 in the tree is: 2
+The preorder traversal of the tree is/are: 
+6 1 0 5 10 4 13 11 12 2 8 9 3 7 
+The postorder traversal of the tree is/are: 
+5 0 1 13 4 11 10 2 8 3 7 9 12 6 
+The inorder traversal of the tree is/are: 
+5 0 1 6 13 4 10 11 2 12 8 3 9 7
